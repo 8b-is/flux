@@ -26,7 +26,7 @@ dependencies = [
 
 [project.optional-dependencies]
 torch = [
-  "torch == 2.6.0",
+  "torch == 2.13.0",
   "torchvision",
 ]
 streamlit = [
